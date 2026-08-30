@@ -1,1 +1,109 @@
-
+{
+  "cards": [
+    {
+      "scryfallId": "2381dbab-e968-4bbc-b3a7-a1e55b066039",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "a78289e0-3675-4587-8a33-54640e58a1f7-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "d4ddf9cc-40a7-4b4f-bb51-b08171453c9a",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "c620e7d7-60f8-452b-9563-5624791ae893",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "7ab1a074-9d92-4125-9200-84cd035f8f53",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "f50acbb6-b295-4aaa-bd75-7a94b704b945",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "7112e460-9160-4535-ad94-93f1f4ac04cf",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "506b9df7-8236-4c6e-aebc-6b7e6fcd7e88-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "5c83074d-0c9b-4b58-94ca-d75240485579",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "aaae15dd-11b6-4421-99e9-365c7fe4a5d6",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "8801efe9-e141-4790-9d97-af8fc0222833",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "e1d12200-ae0b-4155-9853-3ffaf490c84c-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "b02142f3-5e55-40dc-a02c-9113fb7d763c",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "2203b2cd-48e5-471a-85fe-dc81012e5d61",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "7ecc1bec-a90d-4d1b-8096-42a1455e86d2",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "8db47144-e048-4996-9f9a-1184dd86151f",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "f4cfcecf-621f-4664-9b1f-65ce4f0f8ab0",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "c1d49a74-231a-4d38-abfe-3e9b4afff9c2-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "4e446a2b-1e8e-49e2-9c09-9d614474b192-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "09686fb3-ae0f-481a-aee6-3fd75fa43557",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "679335e5-f425-4dc2-bcb2-03cc328ac664-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "62907e7b-e531-4f51-9a69-7e60ae525775",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "f54f1c1d-6a22-43e9-a842-0a1ae25b323c-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "911bd55d-00c7-4362-ba2d-eef0a9dadb6c-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    },
+    {
+      "scryfallId": "9ebc4ecf-2fa2-4ab8-afde-3b91cf5eadb6-foil",
+      "addedAt": "2026-08-30T17:37:15.667Z"
+    }
+  ],
+  "lastModified": "2026-08-30T17:37:15.667Z"
+}
